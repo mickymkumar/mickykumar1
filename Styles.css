@@ -1,0 +1,33 @@
+html {
+  margin: 0;
+  padding: 0;
+
+  font: normal 100%/1.4 georgia,serif;
+}
+
+
+  .current {
+    background-color: #00531;
+}
+
+
+  body {
+      color: #434343;
+  }
+
+  table, th, td {
+      border: 1px solid black;
+  }
+  th, td {
+    padding: 15px;
+}
+
+  table {
+      width: 100%;
+  }
+  th {
+      height: 40px;
+  }
+@media (max-width) {
+
+}
