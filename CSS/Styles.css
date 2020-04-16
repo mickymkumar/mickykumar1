@@ -10,7 +10,9 @@ html {
     background-color: #00531;
 }
 
-
+  h1 {
+    color: red;
+  }
   body {
       color: #434343;
   }
@@ -27,6 +29,10 @@ html {
   }
   th {
       height: 40px;
+  }
+  table {
+      border-collapse: separate;
+      empty-cells: hide;
   }
 @media (max-width) {
 
