@@ -11,21 +11,25 @@ html {
 }
 
   h1 {
-    color: red;
+    color: #FF0000;
+  }
+
+  h2 {
+    color: #0000FF;
   }
   body {
       color: #434343;
   }
 
   table, th, td {
-      border: 2px solid black;
+      border: 2px solid blue;
   }
   th, td {
     padding: 15px;
 }
 
   table {
-      width: 100%;
+      width: 80%;
   }
   th {
       height: 40px;
